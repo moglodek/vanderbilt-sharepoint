@@ -1,0 +1,22 @@
+{
+  "name": "vanderbilt-sharepoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moglodek/vanderbilt-sharepoint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moglodek/vanderbilt-sharepoint/issues"
+  },
+  "homepage": "https://github.com/moglodek/vanderbilt-sharepoint#readme",
+  "dependencies": {
+    "node-sp-auth": "^3.0.8"
+  }
+}
